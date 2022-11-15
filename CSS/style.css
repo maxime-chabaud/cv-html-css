@@ -1,0 +1,43 @@
+h1{color: red;
+    font-weight:bold;
+    text-decoration: underline;
+    position: relative;
+    left: 20cm;
+}
+p.introduction{color:blue;
+}
+h2{color: red;
+    font-weight: bold;
+    text-decoration:underline;
+    position: relative;
+    left: 40cm;
+        ;
+}
+li.taff{color: blue;
+}
+.taff span {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #7D3500;
+}
+li.etudes{font-weight: bold;
+    color: yellowgreen;
+}
+li.information{
+    color: coral;
+}
+.titre{
+    position: static;
+    background: darkblue;
+}
+.titre2{
+    position:relative;
+    right: 825px;
+}
+.titre3{
+    position: relative;
+    right: 725px;
+}
+p, li {
+    font-size: larger;
+}
